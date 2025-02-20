@@ -54,5 +54,7 @@ Trigger voice alerts using Pygame when thresholds are crossed.
 
 # Applications
 1. Automobile Industry: Enhancing driver safety in commercial and personal vehicles.
+
 2 .Public Transport: Reducing accidents in buses, trains, and trucks.
+
 3 .Industrial Operations: Ensuring operator alertness in critical industrial environments.
